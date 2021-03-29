@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on ShareStories.
-- 🌱 I’m currently learning more about ML and Web Development.
+- 🌱 I’m currently learning more about Web Development.
 - 👯 I’m looking to collaborate on [Github](https://github.com/hetgandhi781).
 - 💬 Ask me about Web Development or any tech related stuff. 
 - 😄 Pronouns: He/His
